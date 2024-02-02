@@ -1,9 +1,0 @@
-Config = {}
-
-Config.MenuKey = "F1"  -- Mengubah kunci menu menjadi F1
-
-Config.MenuItems = {
-    { label = "Option 1", action = "menu:item1" },
-    { label = "Option 2", action = "menu:item2" },
-    -- Tambahkan opsi lain sesuai kebutuhan
-}
